@@ -7,3 +7,10 @@ class Dog(object):
 
 dog = Dog()
 dog.bark()
+
+dog2 = Dog()
+dog.bark()
+
+
+
+
