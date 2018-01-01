@@ -16,6 +16,8 @@ l = map(lambda x: x*x, range(10))
 for item in l:
     print (item)
 
+
+
 print(l)
 
 
