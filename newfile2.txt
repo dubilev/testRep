@@ -2,3 +2,6 @@ Simple title
 Changed the title
 
 Added copyright
+
+
+Made some other changes
