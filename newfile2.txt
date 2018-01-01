@@ -1,1 +1,2 @@
 Simple title
+Changed the title
