@@ -10,7 +10,7 @@ More more changes
 ## How to contribute
 
 ## Copyrigt
-Copyright
+Copyright all right reseves
 
 Changes somehting on master
 
