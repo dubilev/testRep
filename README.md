@@ -9,7 +9,7 @@ More more changes
 
 ## How to contribute
 
-## Copyrigt
+## Copyriasdasdgt
 Copyright all right reseves
 
 Changes somehting on master
