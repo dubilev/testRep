@@ -1,2 +1,4 @@
 Simple title
 Changed the title
+
+Added copyright
