@@ -1,7 +1,7 @@
-Simple title
+A great website
 Changed the title
 
-Added copyright
+Changes line 4
 
 
 Made some other changes
