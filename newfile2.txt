@@ -7,3 +7,5 @@ Changes line 4
 Made some other changes
 
 Thanks to all my studends
+
+Adding changes before rebasing conflicts
